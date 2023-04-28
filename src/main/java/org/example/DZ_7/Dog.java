@@ -17,19 +17,16 @@ public class Dog extends Animals implements Pet {
 
     @Override
     public void feed() {
-
         System.out.println("Feeding dog " + getName());
     }
 
     @Override
     public void walk() {
-
         System.out.println("Walking with dog " + getName());
     }
 
     @Override
     public void play() {
-
         System.out.println("Playing with dog "+ getName());
     }
 }

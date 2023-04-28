@@ -3,7 +3,7 @@ package org.example.DZ_7;
 public class BigDog extends Dog {
 
     public BigDog(String name) {
-    super(name);
+        super(name);
     }
 
     @Override
