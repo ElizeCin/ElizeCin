@@ -34,6 +34,11 @@ public class Zoo {
         greets(wolf);
         hunting(wolf);
 
+        Manul manul = new Manul("Basenysh");
+        feed(manul);
+        play(manul);
+        walk(manul);
+        hunting(manul);
 
     }
 
