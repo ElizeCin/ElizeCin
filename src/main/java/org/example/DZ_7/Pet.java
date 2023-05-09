@@ -7,4 +7,5 @@ public interface Pet {
     void walk();
 
     void play();
+
 }
