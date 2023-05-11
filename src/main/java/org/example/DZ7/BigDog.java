@@ -1,4 +1,4 @@
-package my.hillel.studies.DZ7;
+package org.example.DZ7;
 
 public class BigDog extends Dog {
 

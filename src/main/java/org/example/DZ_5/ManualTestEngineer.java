@@ -1,4 +1,4 @@
-package my.hillel.studies.DZ_5;
+package org.example.DZ_5;
 
 public class ManualTestEngineer extends Employee {
 

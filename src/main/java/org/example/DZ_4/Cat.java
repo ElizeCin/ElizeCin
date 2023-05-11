@@ -1,4 +1,4 @@
-package my.hillel.studies.DZ_4;
+package org.example.DZ_4;
 
 public class Cat extends Animal{
     private String colour;
