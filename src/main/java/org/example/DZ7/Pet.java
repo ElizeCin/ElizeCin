@@ -1,4 +1,4 @@
-package my.hillel.studies.DZ7;
+package org.example.DZ7;
 
 public interface Pet {
     void feed();
