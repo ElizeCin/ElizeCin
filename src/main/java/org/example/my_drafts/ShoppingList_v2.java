@@ -1,7 +1,7 @@
 package org.example.my_drafts;
 import java.util.*;
 
-public class Practice_set {
+public class ShoppingList_v2 {
     public static void main(String[] args) {
         homework("milk, milk, water, butter, beer");
     }

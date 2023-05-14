@@ -9,7 +9,7 @@ public class StringMethodsList {
 //        stringList.add("ert");
         System.out.println(stringList);
 
-        Set<String> stringSet = new HashSet<>(stringList);
+        Set<String> stringSet = new TreeSet<>(stringList);
 //        stringSet.add("ert");
 //        stringSet.add("yui");
         System.out.println(stringSet);
