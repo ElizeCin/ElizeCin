@@ -1,4 +1,4 @@
-Hi everyone, I am Liza:)
+Hi everyone!
 
 Here are some interesting links I would love to share with you: 
 
