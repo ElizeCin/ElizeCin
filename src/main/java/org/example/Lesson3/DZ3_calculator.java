@@ -1,4 +1,4 @@
-package my.hillel.studies.Lessons123;
+package org.example.Lesson3;
 
 public class DZ3_calculator {
 

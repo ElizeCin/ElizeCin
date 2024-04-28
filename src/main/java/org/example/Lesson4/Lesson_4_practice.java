@@ -1,4 +1,4 @@
-package my.hillel.studies.Lessons123;
+package org.example.Lesson4;
 
 public class Lesson_4_practice {
     public void colour() {

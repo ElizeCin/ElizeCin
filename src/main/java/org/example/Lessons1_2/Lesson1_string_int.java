@@ -1,6 +1,6 @@
 package my.hillel.studies.Lessons123;
 
-public class Lesson {
+public class Lesson1_string_int {
         public static void main(String[] args) {
             String name;
             name = "Liza Smyrnova";

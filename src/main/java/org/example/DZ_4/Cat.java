@@ -18,6 +18,7 @@ public class Cat extends Animal{
         this.colour = colour;
     }
     public void printCatInfo() {
-        System.out.println("Is vegetarian? - " + isVegetarian() + "\nCat's menu: " + getEats() + "\nHow many legs? - " + getNoOfLegs() + "\nCat's colour: " + getColour());
+        System.out.println("Is vegetarian?  " + isVegetarian() + "\nCat's menu: " + getEats() +
+                "\nHow many legs? " + getNoOfLegs() + "\nCat's colour: " + getColour());
     }
 }
